@@ -1,6 +1,8 @@
 ## Load the required package
 library(reshape2)
 library(plyr)
+
+# setting the directory
 getwd()
 setwd("c:/data science/cleandata")
 
