@@ -10,8 +10,9 @@ The Goal is to create a final script, "run_analysis.r", that could perform the f
 for each activity and each subject.
 
 In this project i will produce:
-1.  a tidy data set, 
-2.   a link to a Github repository with the script for performing the analysis
-3.  a code book ,"CodeBook.md" , that describes the variables, the data, and any transformations or 
+*   A tidy data set , "tidydata.txt"
+*   A final script that can run the anaysis, "run_analysis.r"
+*   A link to a Github repository with the script for performing the analysis
+*   A code book ,"CodeBook.md" , that describes the variables, the data, and any transformations or 
 work that you performed to clean up the data called CodeBook.md. 
-4.   README.md file. 
+*   README.md file. 
